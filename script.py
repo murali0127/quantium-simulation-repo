@@ -15,4 +15,4 @@ cols = [ col for col in df.columns if col in ['sales', 'date', 'region']]
 
 print(df[cols])
 #save
-# df.to_csv('task-2_formating_data_completed.csv',index=False)
+df.to_csv('task-2_formating_data_completed.csv',index=False)
