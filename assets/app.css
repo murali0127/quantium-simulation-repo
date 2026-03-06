@@ -1,0 +1,61 @@
+body {
+      background-color: grey;
+      font-family: Arial, sans-serif;
+}
+
+.container {
+      width: 70%;
+      margin: auto;
+      background: white;
+      padding: 25px;
+      border-radius: 10px;
+      background-color: rgb(63, 49, 73);
+}
+
+div {
+      text-align: center;
+}
+
+#title {
+      color: rgb(255, 255, 255);
+
+}
+
+h1 {
+      text-align: center;
+      color: rgb(235, 232, 241);
+}
+
+.filters {
+      text-align: center;
+      margin-bottom: 30px;
+
+}
+
+.dash-graph {
+      background-color: white;
+      padding: 15px;
+      border-radius: 10px;
+}
+
+#total-sales {
+      background-color: bisque;
+}
+
+#sales-chart {
+      background-color: bisque;
+}
+
+#region-filter {
+      color: beige;
+}
+
+.js-plotly-plot {
+      border-radius: 20px;
+}
+
+#sales-pie {
+      margin-top: 2rem;
+      background-color: bisque;
+      ;
+}
